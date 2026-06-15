@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:0f172a&height=220&section=header&text=Samir%20AIT-SAID&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20%26%20Cloud%20Security%20Enthusiast&descAlignY=58&descSize=18" alt="Hero Banner" />
+<!-- Zodiac Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:312e81,100:020617&height=240&section=header&text=Samir%20AIT-SAID%20%7C%20ZODIAC&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%26%20Cloud%20Security%20Enthusiast&descAlignY=56&descSize=17" alt="Zodiac Hero Banner" />
+
+<p>
+  <strong>&#9800; &#9801; &#9802; &#9803; &#9804; &#9805; &#9806; &#9807; &#9808; &#9809; &#9810; &#9811;</strong>
+</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Samir;Cybersecurity+Engineer+%26+Cloud+Security+Enthusiast;ENSA+Berrechid+Computer+Engineering+Student;Cloud+Security+%7C+IAM+%7C+SOC+%7C+Backend+Development" alt="Typing SVG" />
