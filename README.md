@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Zodiac Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:312e81,100:020617&height=240&section=header&text=Samir%20AIT-SAID%20%7C%20ZODIAC&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%26%20Cloud%20Security%20Enthusiast&descAlignY=56&descSize=17" alt="Zodiac Hero Banner" />
+<!-- Crime Thriller Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,45:111827,100:7f1d1d&height=250&section=header&text=Samir%20AIT-SAID&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20Cloud%20Security%20%7C%20IAM%20%7C%20SOC&descAlignY=58&descSize=17" alt="Dark Cybersecurity Hero Banner" />
 
 <p>
-  <strong>&#9800; &#9801; &#9802; &#9803; &#9804; &#9805; &#9806; &#9807; &#9808; &#9809; &#9810; &#9811;</strong>
+  <code>investigate</code> · <code>detect</code> · <code>analyze</code> · <code>secure</code>
 </p>
 
 <a href="https://git.io/typing-svg">
