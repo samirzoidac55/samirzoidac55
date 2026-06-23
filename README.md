@@ -1,14 +1,14 @@
 <div align="center">
 
 <!-- Crime Thriller Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,45:111827,100:7f1d1d&height=250&section=header&text=Samir%20AIT-SAID&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20Cloud%20Security%20%7C%20IAM%20%7C%20SOC&descAlignY=58&descSize=17" alt="Dark Cybersecurity Hero Banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:030712,45:111827,100:7f1d1d&height=250&section=header&text=Samir%20AIT-SAID&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Engineer%20%7C%20SOC&descAlignY=58&descSize=17" alt="Dark Cybersecurity Hero Banner" />
 
 <p>
   <code>investigate</code> · <code>detect</code> · <code>analyze</code> · <code>secure</code>
 </p>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Samir;Cybersecurity+Engineer+%26+Cloud+Security+Enthusiast;ENSA+Berrechid+Computer+Engineering+Student;Cloud+Security+%7C+IAM+%7C+SOC+%7C+Backend+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Samir;Cybersecurity+Engineer+%26+SOC+Enthusiast;ENSA+Berrechid+Computer+Engineering+Student;SOC+%7C+Backend+Development" alt="Typing SVG" />
 </a>
 
 <p>
@@ -33,22 +33,19 @@
 
 ## About Me
 
-I am **Samir AIT-SAID**, a Computer Engineering student at **ENSA Berrechid** with a strong focus on cybersecurity, cloud security, identity and access management, and backend development.
+I am **Samir AIT-SAID**, a Computer Engineering student at **ENSA Berrechid** with a strong focus on cybersecurity, SOC operations, and backend development.
 
-- Focused on **Cloud Security**, **IAM**, **SOC operations**, and secure backend systems.
+- Focused on **SOC operations** and secure backend systems.
 - Building backend applications with **Java**, **Spring Boot**, **Python**, and relational databases.
-- Interested in security monitoring, vulnerability analysis, access control, and defensive engineering.
-- Exploring cloud platforms, DevSecOps practices, and modern security architectures.
+- Interested in security monitoring, vulnerability analysis, and defensive engineering.
 - Always improving my skills through hands-on projects, labs, and real-world security tooling.
 
 ---
 
 ## Current Goals
 
-- Strengthen my expertise in **Cloud Security** and **Identity & Access Management**.
 - Build production-ready backend projects using **Java Spring Boot**.
 - Improve practical SOC skills with monitoring, detection, and incident response workflows.
-- Work more with cloud environments including **AWS** and **Oracle Cloud Infrastructure**.
 - Create secure, documented, and maintainable projects for my engineering portfolio.
 
 ---
@@ -66,8 +63,6 @@ I am **Samir AIT-SAID**, a Computer Engineering student at **ENSA Berrechid** wi
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud Infrastructure" />
 
 </div>
 
@@ -80,9 +75,7 @@ I am **Samir AIT-SAID**, a Computer Engineering student at **ENSA Berrechid** wi
 <img src="https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/IAM-0F172A?style=for-the-badge&logo=auth0&logoColor=white" alt="IAM" />
 <img src="https://img.shields.io/badge/SOC-1E293B?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="SOC" />
-<img src="https://img.shields.io/badge/Cloud_Security-0369A1?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security" />
 
 </div>
 
@@ -128,6 +121,6 @@ I am **Samir AIT-SAID**, a Computer Engineering student at **ENSA Berrechid** wi
 
 <div align="center">
 
-**Cloud Security** | **IAM** | **SOC** | **Backend Development** | **Java Spring Boot**
+**SOC** | **Backend Development** | **Java Spring Boot**
 
 </div>
